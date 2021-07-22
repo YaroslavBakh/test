@@ -1,0 +1,23 @@
+form {
+    margin: 0 auto;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+input {
+    margin: 5px 0;
+}
+select {
+    margin: 5px 0;
+}
+
+.hobby {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.error {
+    color: red;
+}
